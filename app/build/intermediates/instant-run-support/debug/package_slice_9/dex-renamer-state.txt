@@ -1,0 +1,4 @@
+#Mon Nov 27 20:05:17 EET 2017
+base.0=C\:\\Users\\gotomgo\\AndroidStudioProjects\\HelloAndroid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\29
+renamed.0=classes.dex
+file.0=C\:\\Users\\gotomgo\\AndroidStudioProjects\\HelloAndroid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\29\\classes.dex
