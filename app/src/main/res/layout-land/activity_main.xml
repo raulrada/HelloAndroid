@@ -20,6 +20,7 @@
         android:layout_height="match_parent"
         android:layout_weight="2"
         android:background="@drawable/background"
+        android:baselineAligned="false"
         android:orientation="horizontal">
 
         <LinearLayout
@@ -27,6 +28,7 @@
             android:layout_height="match_parent"
             android:layout_marginStart="@dimen/mStart_layout"
             android:layout_weight="0.8"
+            android:baselineAligned="false"
             android:orientation="vertical">
 
             <TextView
@@ -63,6 +65,7 @@
             android:layout_height="match_parent"
             android:layout_marginEnd="@dimen/mEnd_layout"
             android:layout_weight="1"
+            android:baselineAligned="false"
             android:orientation="vertical">
 
             <TextView
