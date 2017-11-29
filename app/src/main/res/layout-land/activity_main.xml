@@ -29,6 +29,7 @@
             android:layout_marginStart="@dimen/mStart_layout"
             android:layout_weight="0.8"
             android:baselineAligned="false"
+
             android:orientation="vertical">
 
             <TextView
